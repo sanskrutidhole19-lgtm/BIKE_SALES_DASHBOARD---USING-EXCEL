@@ -82,7 +82,7 @@ Provides insights into customer buying behavior across regions.
 📷 Dashboard Screenshot
 
 <p align="center">
-  <img src="  " width="1000"/>
+  <img src="https://github.com/sanskrutidhole19-lgtm/BIKE_SALES_DASHBOARD---USING-EXCEL/blob/main/BIKE_SALES_DASHBOARD%20-%20%20IMAGE/IMAGE.png?raw=true" width="1000"/>
 </p>
 
 ---
